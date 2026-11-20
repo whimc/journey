@@ -34,7 +34,7 @@ dependencies {
 
     // Tests
     testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
-    testImplementation 'com.google.guava:guava:31.0.1-jre'
+    testImplementation 'com.google.guava:guava:33.7.2-jre'
 
     // Annotations
     implementation 'org.jetbrains:annotations:22.0.0'
